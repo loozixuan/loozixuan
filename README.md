@@ -1,4 +1,4 @@
-### Hi there 👋, I am Zi Xuan
+### Hi there 👋, I'm Zi Xuan
 - 🌱 I'm currently studying Software System Development (RSD) at <a href="https://www.tarc.edu.my/">Tunku Abdul Rahman University College<a/>.
 - 📫 Linkedln : <a href="https://www.linkedin.com/in/loo-zi-xuan/">www.linkedin.com/in/loo-zi-xuan</a>
 - :e-mail: Email : <a href="mailto:loozx-wm19@student.tarc.edu.my">loozx-wm19@student.tarc.edu.my</a> 
