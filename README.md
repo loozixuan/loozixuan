@@ -4,9 +4,9 @@
 - :e-mail: Email : <a href="mailto:loozx-wm19@student.tarc.edu.my">loozx-wm19@student.tarc.edu.my</a> 
 
 <a href="https://github.com/loozixuan/loozixuan" style="margin-bottom:5px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loozixuan&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loozixuan&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="#t">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loozixuan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loozixuan&layout=compact&theme=dark" />
 </a>
  
