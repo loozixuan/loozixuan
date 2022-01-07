@@ -4,7 +4,7 @@
 - :e-mail: Email : <a href="mailto:loozx-wm19@student.tarc.edu.my" target="_blank">loozx-wm19@student.tarc.edu.my</a> 
 
 <a href="https://github.com/loozixuan/loozixuan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loozixuan&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loozixuan&count_private=true&show_icons=true&theme=dark&hide=issues,prs" />
 </a>
 
   <p></p>
