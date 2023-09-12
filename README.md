@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loozixuan&label=Profile%20views&color=0e75b6&style=flat" alt="loozixuan" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **SpringBoot, Flutter, React Native**
 
 - 👨‍💻 All of my projects are available at [https://loozixuan.mystrikingly.com/](https://loozixuan.mystrikingly.com/)
 
