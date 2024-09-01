@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div >
+<div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
@@ -42,8 +42,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/>
 </div>
-
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loozixuan&show_icons=true&locale=en&layout=compact" alt="loozixuan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loozixuan&show_icons=true&locale=en" alt="loozixuan" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loozixuan&show_icons=true&locale=en&layout=compact" alt="loozixuan" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loozixuan&show_icons=true&locale=en" alt="loozixuan" /></div>
