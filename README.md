@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loozixuan&label=Profile%20views&color=0e75b6&style=flat" alt="loozixuan" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot, Flutter, React Native**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://loozixuan.mystrikingly.com/](https://loozixuan.mystrikingly.com/)
 
-- 📫 How to reach me: **zixuan2001711@gmail.com** | **loozx-wm19@student.tarc.edu.my**
+- 📫 How to reach me: **zixuan2001711@gmail.com**
 
 - ⚡ Fun fact: **meme lover**
 
