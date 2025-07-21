@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Zi Xuan</h2>
-<h4 align="center">A recent graduate from TAR UMT, I completed my bachelor's degree in Software Systems Development with distinction. Always looking for opportunities to enhance my knowledge as well as develop technical skills for further growth and improvement.</h4>
+<h4 align="center">Not a recent graduate from TAR UMT anymore, but I completed my bachelor's degree in Software Systems Development with distinction. Always looking for opportunities to enhance my knowledge as well as develop technical skills for further growth and improvement.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loozixuan&label=Profile%20views&color=0e75b6&style=flat" alt="loozixuan" /> </p>
 
